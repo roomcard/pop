@@ -1,0 +1,9 @@
+outlook,temperature,humidity,wind,play
+sunny,hot,high,weak,no
+sunny,hot,high,strong,no
+overcast,hot,high,weak,yes
+rainy,mild,high,weak,yes
+rainy,cool,normal,weak,yes
+rainy,cool,normal,strong,no
+sunny,mild,high,weak,no
+sunny,cool,normal,weak,yes
